@@ -1,4 +1,4 @@
-import Message from './Message';
+// import Message from './Message';
 import Navbar from './Navbar';
 
 function App(){
