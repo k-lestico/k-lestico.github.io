@@ -2,7 +2,7 @@
   "name": "vite_react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://k-lestico.github.io/KL-reactapp.git",
+  "homepage": "https://k-lestico.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
